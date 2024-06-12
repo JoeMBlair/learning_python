@@ -1,4 +1,5 @@
 spam = 0
+responses []
 1
 
 spam = input("Type a number: ")
